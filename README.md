@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my WIP game: 
+Check out my HIGHLY WIP game being developed in Java: [Forager](https://github.com/RuiQiHuang1832/Forager)
 
 <!--
 **RuiQiHuang1832/RuiQiHuang1832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
