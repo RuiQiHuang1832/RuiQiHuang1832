@@ -4,7 +4,7 @@ Check out my **HIGHLY WIP** Web application being developed in React and Spring 
 
 Frontend hosted on Vercel and Backend hosted on Heroku.
 
-Since heroku is hosted free, there will be a delay while accessing the web app.
+**Since heroku is hosted free, there will be a delay while accessing the web app.
 
 <!--
 **RuiQiHuang1832/RuiQiHuang1832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
