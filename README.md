@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Check out my **HIGHLY WIP** Web application being developed in React and Spring JPA: [Tailwind](https://github.com/RuiQiHuang1832/RuiWebApp)
+
 Frontend hosted on Vercel and Backend hosted on Heroku.
 
 Since heroku is hosted free, there will be a delay while accessing the web app.
