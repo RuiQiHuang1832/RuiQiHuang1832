@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[My Portfolio](https://portfolio-ruihuang.vercel.app/)
+
 Check out my **HIGHLY WIP** Web application being developed in Reactjs and Spring JPA: [Tailwind](https://github.com/RuiQiHuang1832/RuiWebApp)
 
 Frontend hosted on Vercel and Backend hosted on Heroku.
