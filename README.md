@@ -4,7 +4,7 @@
 
 **HIGHLY WIP** Web app being developed in Reactjs and Spring JPA (wip name): [Tailwind](https://github.com/RuiQiHuang1832/RuiWebApp)
 
-**Spinup time is 30 seconds for render
+**Spinup time is like 2 min for Render
 
 <!--
 **RuiQiHuang1832/RuiQiHuang1832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
