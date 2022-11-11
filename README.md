@@ -2,11 +2,9 @@
 
 [My Portfolio](https://portfolio-ruihuang.vercel.app/)
 
-Check out my **HIGHLY WIP** Web application being developed in Reactjs and Spring JPA: [Tailwind](https://github.com/RuiQiHuang1832/RuiWebApp)
+**HIGHLY WIP** Web app being developed in Reactjs and Spring JPA (wip name): [Tailwind](https://github.com/RuiQiHuang1832/RuiWebApp)
 
-Frontend hosted on Vercel and Backend hosted on Heroku.
-
-**Since heroku is hosted free, there will be a delay while accessing the web app.
+**Spinup time is 30 seconds for render
 
 <!--
 **RuiQiHuang1832/RuiQiHuang1832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
