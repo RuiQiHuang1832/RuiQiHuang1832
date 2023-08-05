@@ -3,7 +3,7 @@
 > [Portfolio](https://portfolio-ruihuang.vercel.app/)
 
 Recent projects: 
-- **[vernacular](https://github.com/RuiQiHuang1832/vernacular)**: to be added
+- **[vernacular](https://github.com/RuiQiHuang1832/vernacular)**: Personal Media Catalog & Reviews Hub
 - **[tailwind](https://github.com/RuiQiHuang1832/RuiWebApp)**: Interactive web forum
 - **[forager](https://github.com/RuiQiHuang1832/Forager)**: 2D game built in LibGDX (unfinished)
 - **[JFrame Game](https://github.com/RuiQiHuang1832/textbasedGame)**: Simple Narration game in JFrame
