@@ -2,7 +2,7 @@
 
 > [Portfolio](https://portfolio-ruihuang.vercel.app/)
 
-Some of my projects: 
+Recent projects: 
 - **[vernacular](https://github.com/RuiQiHuang1832/vernacular)**: to be added
 - **[Tailwind](https://github.com/RuiQiHuang1832/RuiWebApp)**: Interactive web forum
 - **[Forager](https://github.com/RuiQiHuang1832/Forager)**: 2D game built in LibGDX (unfinished)
