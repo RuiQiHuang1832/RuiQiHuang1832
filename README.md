@@ -3,7 +3,8 @@
 [My Portfolio](https://portfolio-ruihuang.vercel.app/)
 
 Some of my projects: 
-- **[Tailwind](https://github.com/RuiQiHuang1832/RuiWebApp)**: Interactive web forum 
+- **[Tailwind](https://github.com/RuiQiHuang1832/RuiWebApp)**: Interactive web forum
+- **[Forager](https://github.com/RuiQiHuang1832/Forager)**: 2D game built in LibGDX (unfinished)
 
 <!--
 **RuiQiHuang1832/RuiQiHuang1832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
