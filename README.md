@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Portfolio](https://portfolio-ruihuang.vercel.app/)
+> [Portfolio](https://portfolio-ruihuang.vercel.app/)
 
 Some of my projects: 
 - **[Tailwind](https://github.com/RuiQiHuang1832/RuiWebApp)**: Interactive web forum
